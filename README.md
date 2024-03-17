@@ -10,7 +10,7 @@ Olá! 👋 Meu nome é João Fernando e sou um estudante de ciência da computa�
 ## Estou aprendendo:
 
 - 🐍 Linguagens: Python, JavaScript, c
-- 🌐 Front-end: HTML, CSS, React
+- 🌐 Front-end: HTML, CSS
 - 📦 Back-end: Node.js, Express
 - 🗄️ Banco de Dados: MySQL, postgresql
 - 🚀 Ferramentas: Git, VS Code
